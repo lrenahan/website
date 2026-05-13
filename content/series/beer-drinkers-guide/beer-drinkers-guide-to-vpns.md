@@ -6,7 +6,7 @@ series: "beer-drinkers-guide"
 readtime: "~8 min read"
 tags: ["vpn", "privacy", "networking", "encryption", "explainer"]
 youtube_id: "_GuWrVmkcFI"
-youtube_url: "https://youtu.be/_GuWrVmkcFI"
+youtube_url: "https://www.youtube.com/watch?v=GuWrVmkcFI"
 ---
 
 *Welcome to The Service Provider Arms — where every pint tells a story. Today's tale? How VPNs work, told through the noble art of ordering beer.*

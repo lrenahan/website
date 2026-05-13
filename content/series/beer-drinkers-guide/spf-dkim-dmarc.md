@@ -5,8 +5,8 @@ date: 2025-05-01
 series: "beer-drinkers-guide"
 readtime: "~10 min read"
 tags: ["email", "spf", "dkim", "dmarc", "authentication", "explainer"]
-# youtube_id: "YOUR_YOUTUBE_VIDEO_ID_HERE"
-# youtube_url: "https://youtu.be/0TJm0Hw9NPw"
+youtube_id: "0TJm0Hw9NPw"
+youtube_url: "https://www.youtube.com/watch?v=0TJm0Hw9NPw"
 ---
 
 You walk into a pub and spot a discount on your favourite beer. Brilliant. But before you dive in, a nagging question: is that actually ABC Lager in the glass, or has the landlord switched the kegs? Email works exactly the same way. And billions of fraudulent messages every day are banking on the fact that you won't check.
